@@ -1,0 +1,18 @@
+# History files
+.Rhistory
+.RData
+.Ruserdata
+
+# Example / session temp files
+.Rproj.user/
+*.Rproj
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary packages and outputs
+*.tar.gz
+*.Rcheck/
+.system_generated/
