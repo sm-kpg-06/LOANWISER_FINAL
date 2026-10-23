@@ -1,0 +1,12 @@
+.git
+.gitignore
+*.pptx
+*.pdf
+screenshots/
+reports/
+plots/
+build_review_2_presentation.py
+capture_screenshots.py
+inspect_kaggle.R
+tests/
+deploy_to_shinyapps.R
